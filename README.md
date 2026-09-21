@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Rachit Lohani</h1>
+<h3 align="center">A curious individual who is passionate about exploring every new experience the world has to offer.</h3>
 
-<!--
-**rachit-lohani/rachit-lohani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚒️ I’m currently butlding [PRINTONAUT™ & Ublyn™](https://tr.ee/wYprN2)
 
-Here are some ideas to get you started:
+- 🔍 PRINTONAUT™ [https://www.printonaut.in/](https://www.printonaut.in/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Ublyn™ [https://www.ublyn.com/](https://www.ublyn.com/)
+
+- 📫 How to reach me **connect.rachitlohani@gmail.com**
+
+- 📄 Know about me [https://tr.ee/N1JgAB](https://tr.ee/N1JgAB)
+
+- ⚡ Fun fact **Children ask up to 300 questions a day because they are unafraid of trying and failing, whereas adults often stop exploring due to the fear of looking silly.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
