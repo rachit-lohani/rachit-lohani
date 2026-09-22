@@ -13,5 +13,7 @@
 
 - ⚡ Fun fact **Children ask up to 300 questions a day because they are unafraid of trying and failing, whereas adults often stop exploring due to the fear of looking silly.**
 
+<h3 align="center"> ------------------------------------------------- .</h3>
+
 <p align="left">
 </p>
